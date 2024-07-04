@@ -1,0 +1,29 @@
+.heading{
+    font-weight: bolder;
+    color: blueviolet;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.container-new{
+    background-color: aqua;
+   width: 100%;
+}
+.parent{
+    width: 70%;
+    background-color: aqua;
+    margin-left: 20%;
+}
+.input{
+    width: 50%;
+    margin-left: 20%;
+    background-color:darkgrey;
+}
+.form{
+    width: 45%;
+    margin-left: 27%;
+    margin-right: 1%;
+}
+.card{
+        margin-left: 32.5px;
+}

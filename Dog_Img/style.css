@@ -1,0 +1,33 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.heading{
+    margin-top: 20px;
+}
+.img-container{
+    width: 60%;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.parent{
+    width: 100%;
+}
+p{
+    font-weight: bold;
+    color: brown;
+    font-size: 23px;
+}
+.container{
+    border: 10px solid yellowgreen;
+}
+.img-height{
+    width: 450px;
+    height: 320px;
+    border: 5px solid purple;
+}
+.text-center{
+    color:indianred
+}
